@@ -1,0 +1,218 @@
+@media (max-width: 991px) {
+    div { text-align:center }
+}
+
+div {
+    border: 0px red solid;
+}
+
+a {
+    color: inherit;
+}
+
+#page1 {
+    background: url('assets/large-v.png') no-repeat center center, url('assets/top-back@2x.jpg') no-repeat center center;
+    min-height: 855px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+@media (max-width: 993px) {
+    .navbar-nav {
+        float: none!important;
+    }
+}
+
+.navbar-brand {
+    font-size: 2.5em;
+}
+
+.pull-right {
+    display: flex;
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+#topLogo {
+    height: 280%;
+    margin-right: 5px;
+    margin-top: -7px;
+}
+
+#p1Logo {
+    position: absolute;
+    margin-top: 10%
+}
+
+.wide {
+    font-weight: 600;
+}
+
+#page2 {
+    background: rgba(255, 255, 255, 1) no-repeat center center;
+    background-size: cover;
+    margin-top: 300px;
+    min-height: 855px;
+    color: rgb(148, 194, 61);
+    font-family: 'Open Sans', sans-serif;
+}
+
+#p2Header {
+    font-size: 5em;
+}
+
+#p2Text {
+    margin-top: 2.5em;
+    color: black;
+    font-size: 1.1em;
+    font-weight: 800;
+}
+
+#videoButton {
+    margin-top: 2.5em;
+    border-radius: 3px;
+    background-color: rgb(148, 194, 61);
+    color: white;
+    font-size: 1.5em;
+    font-weight: 900;
+    padding: 12px 45px 12px 45px;
+}
+
+#p2Stats {
+    margin-top: 1.4em;
+    font-size: 4em;
+}
+
+#statSubtext {
+    font-size: 0.4em;
+}
+
+#p2Header2 {
+    margin-top: 3.7em;
+    font-size: 4.8em;
+}
+
+#p2Text2 {
+    margin-top: 1.7em;
+    color: black;
+    font-size: 1.1em;
+    font-weight: 800;
+}
+
+#p2IconStats {
+    margin-top: 4em;
+}
+
+
+#p2IconImg {
+    height: 6em;
+    margin-bottom: 1.1em;
+    margin-top: 3em;
+}
+
+#statSubtext2 {
+    font-size: 1.6em;
+    margin-bottom: 50px;
+}
+
+#page3 {
+    background: rgba(255, 255, 255, 1) no-repeat center center;
+    background-size: cover;
+    margin-top: 300px;
+    min-height: 855px;
+    color: rgb(148, 194, 61);
+    font-family: 'Open Sans', sans-serif;
+}
+
+#p3HeaderIcon {
+    height: 10em;
+}
+
+#p3Header {
+    margin-top: 1em;
+    font-size: 4.8em;
+}
+
+#p3Text {
+    margin-top: 2.5em;
+    color: black;
+    font-size: 1.1em;
+    font-weight: 900;
+}
+
+#p3End {
+    min-height: 930px;
+    background: url('assets/vesta-phone.png') no-repeat center bottom, url('assets/vesta-back@2x.jpg') no-repeat center 20%;
+}
+
+#page4 {
+    background: url('assets/large-house.jpg') no-repeat center center;
+    background-size: cover;
+    min-height: 600px;
+    color: rgb(148, 194, 61);
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;
+}
+
+#p4LogoBlock {
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+#p4Logo {
+    width: 100%;
+}
+
+#p4LogoText{
+    font-size: 1.2em;    
+    font-weight: 800;
+    margin-top: 40px;
+    color: white;
+}
+
+footer {
+    color: rgb(148, 194, 61);
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;    
+}
+
+#p4ContactInfo {
+    background-color: white;
+    min-height: 200px;
+    color: black;
+}
+
+.p4Text {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-weight: 800;
+    font-size: 1.15em;
+}
+
+.contactHeader {
+    color: rgb(148, 194, 61);
+    font-size: 1.65em;
+    margin-bottom: 0.5em;
+    font-weight: 100;
+}
+
+.contactHeader2 {
+    color: transparent;
+    font-size: 1.65em;
+    margin-bottom: 0.5em;
+    font-weight: 100;
+}
+
+.contactInfo {
+    margin-top: 10px;
+}
+
+#socialMedia {
+    border-top: 5px solid transparent;
+}
+
+#readMore {
+    color: rgb(148, 194, 61);
+    margin-top: 5px;
+}
+
